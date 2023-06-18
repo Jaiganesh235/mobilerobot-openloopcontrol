@@ -106,7 +106,7 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-![image](https://github.com/Jaiganesh235/mobilerobot-openloopcontrol/assets/118657189/31ae3209-283c-4382-a21b-51b49550158e)
+![image](https://github.com/Jaiganesh235/mobilerobot-openloopcontrol/assets/118657189/f1048595-7854-491a-b8ec-84aa1d923eea)
 
 
 
